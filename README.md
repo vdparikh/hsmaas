@@ -1,5 +1,5 @@
 # HSM as a Service 
-This project implements a Key Management System (KMS) using the MCloud HSM, the Gin web framework, and a PostgreSQL database. The KMS provides secure key management functionalities similar to AWS KMS, including key creation, retrieval, deletion, rotation, and data encryption/decryption.
+This project implements a Key Management System (KMS) using the Cloud HSM, the Gin web framework, and a PostgreSQL database. The KMS provides secure key management functionalities similar to AWS KMS, including key creation, retrieval, deletion, rotation, and data encryption/decryption.
 
 ## Features
 
