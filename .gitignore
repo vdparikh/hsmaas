@@ -1,0 +1,10 @@
+# Generated certs (scripts/create-ca.sh, create-client-cert.sh)
+certs/
+*.key
+*.crt
+*.csr
+*.srl
+
+# Go
+/bin/
+*.exe
